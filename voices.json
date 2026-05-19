@@ -1,0 +1,6 @@
+[
+  {"id": "voice1", "name": "Sanskrit Shloka Voice 1 (Female)", "type": "verse"},
+  {"id": "voice2", "name": "Sanskrit Shloka Voice 2 (Male)", "type": "verse"},
+  {"id": "ramsukhdas_voice1", "name": "Ramsukhdas Hindi Voice 1", "type": "translation"},
+  {"id": "chinmayananda_voice1", "name": "Chinmayananda English Voice 1", "type": "commentary"}
+]
